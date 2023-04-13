@@ -1,18 +1,20 @@
 ### Hi there 😊
 
-<h3>👩‍💻 interest </h3>
+## 👩‍💻 interest 
 
 Deep Learning, Natural Language Processing (NLP) and Searching New technologies
 
 
-<h3>😄 Contact Me </h3>
+## 😄 Contact Me 
 <p>
     <a href="mailto:thekey1027@naver.com"><img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=thekey1027@naver.com"/></a>
   <a href="https://joheejin.tistory.com/"><img src="https://img.shields.io/badge/%20Blog-053766?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp
   <a href="https://www.instagram.com/zo_zni/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zo_zni/"/></a>&nbsp
 </p>
 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=joheejin&theme=default)](https://joheejin.tistory.com)
 
+## 
 
 ![zozni's GitHub stats](https://github-readme-stats.vercel.app/api?username=zozni&show_icons=true&theme=github_dark_dimmed)
 
