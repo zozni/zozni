@@ -1,11 +1,14 @@
-### Hi there 😊
+## Hi there 😊
+<p>What can you do to change the world !!</p>
 
-## 👩‍💻 interest 
+### 👩‍💻 interest 
 
 Deep Learning, Natural Language Processing (NLP) and Searching New technologies
 
 
-## 😄 Contact Me 
+
+
+### 😄 Contact Me 
 <p>
     <a href="mailto:thekey1027@naver.com"><img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=thekey1027@naver.com"/></a>
   <a href="https://joheejin.tistory.com/"><img src="https://img.shields.io/badge/%20Blog-053766?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp
