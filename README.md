@@ -1,11 +1,9 @@
 ## Hi there 😊
 <p>What can you do to change the world !!</p>
 
-### 👩‍💻 interest 
+### 👩‍💻 Interest 
 
-Deep Learning, Natural Language Processing (NLP) and Searching New technologies
-
-
+<p>Deep Learning, Natural Language Processing (NLP) and Searching New technologies </p>
 
 
 ### 😄 Contact Me 
@@ -17,8 +15,12 @@ Deep Learning, Natural Language Processing (NLP) and Searching New technologies
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=joheejin&theme=default)](https://joheejin.tistory.com)
 
-## 
+### 🔎 Research Performance
+- 조희진, 김도경, 이창기, 강명철, 고우영. SSAN과 JEREX의 통합 모델을 이용한 문서 수준 관계 추출, KSC2022, 368~370
+- 제 10-2022-0184819 호 [근거 임베딩을 이용한 문장 분석 장치, 방법 및 프로그램]
+- (~ ing)
 
+#
 ![zozni's GitHub stats](https://github-readme-stats.vercel.app/api?username=zozni&show_icons=true&theme=github_dark_dimmed)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzozni%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
