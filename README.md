@@ -16,8 +16,8 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=joheejin&theme=default)](https://joheejin.tistory.com)
 
 ### 🔎 Research Performance
-- 조희진, 김도경, 이창기, 강명철, 고우영. SSAN과 JEREX의 통합 모델을 이용한 문서 수준 관계 추출, KSC2022, 368~370
-- 제 10-2022-0184819 호 [근거 임베딩을 이용한 문장 분석 장치, 방법 및 프로그램]
+- [paper] 조희진, 김도경, 이창기, 강명철, 고우영. SSAN과 JEREX의 통합 모델을 이용한 문서 수준 관계 추출, KSC2022, 368~370
+- [patent] 제 10-2022-0184819 호 [근거 임베딩을 이용한 문장 분석 장치, 방법 및 프로그램] 
 - (~ ing)
 
 #
