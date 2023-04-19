@@ -1,10 +1,12 @@
 ## Hi there 😊
-<p>What can you do to change the world !!</p>
+What can you do to change the world !!
+
+#
 
 ### 👩‍💻 Interest 
-
 <p>Deep Learning, Natural Language Processing (NLP) and Searching New technologies </p>
 
+#
 
 ### 🔎 Research list
 - [paper] 조희진, 김도경, 이창기, 강명철, 고우영. SSAN과 JEREX의 통합 모델을 이용한 문서 수준 관계 추출, KSC2022, 368~370
@@ -12,6 +14,7 @@
 - (~ ing)
 
 
+#
 ### 😄 Contact Me 
 <p>
     <a href="mailto:thekey1027@naver.com"><img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=thekey1027@naver.com"/></a>
