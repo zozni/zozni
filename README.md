@@ -6,6 +6,12 @@
 <p>Deep Learning, Natural Language Processing (NLP) and Searching New technologies </p>
 
 
+### 🔎 Research list
+- [paper] 조희진, 김도경, 이창기, 강명철, 고우영. SSAN과 JEREX의 통합 모델을 이용한 문서 수준 관계 추출, KSC2022, 368~370
+- [patent] 제 10-2022-0184819 호 [근거 임베딩을 이용한 문장 분석 장치, 방법 및 프로그램] 
+- (~ ing)
+
+
 ### 😄 Contact Me 
 <p>
     <a href="mailto:thekey1027@naver.com"><img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=thekey1027@naver.com"/></a>
@@ -14,11 +20,6 @@
 </p>
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=joheejin&theme=default)](https://joheejin.tistory.com)
-
-### 🔎 Research list
-- [paper] 조희진, 김도경, 이창기, 강명철, 고우영. SSAN과 JEREX의 통합 모델을 이용한 문서 수준 관계 추출, KSC2022, 368~370
-- [patent] 제 10-2022-0184819 호 [근거 임베딩을 이용한 문장 분석 장치, 방법 및 프로그램] 
-- (~ ing)
 
 #
 ![zozni's GitHub stats](https://github-readme-stats.vercel.app/api?username=zozni&show_icons=true&theme=github_dark_dimmed)
