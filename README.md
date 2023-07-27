@@ -11,7 +11,7 @@ What can you do to change the world !!
 ### 🔎 Research list
 - [paper] 조희진, 김도경, 이창기, 강명철, 고우영. SSAN과 JEREX의 통합 모델을 이용한 문서 수준 관계 추출, KSC2022, 368~370
 - [patent] 제 10-2022-0184819 호 [근거 임베딩을 이용한 문장 분석 장치, 방법 및 프로그램] 
-- [paper] 조희진, 정영준, 이창기. 거대 언어 모델과 In-context learning을 이용한 자연어 추론 학습 데이터 자동 생성, KCC2023
+- [paper] 조희진, 정영준, 이창기. 거대 언어 모델과 In-context learning을 이용한 자연어 추론 학습 데이터 자동 생성, KCC2023, 373~375
 - (~ ing)
 
 
