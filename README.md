@@ -13,6 +13,7 @@ What can you do to change the world !!
 - [patent] 제 10-2022-0184819 호 [근거 임베딩을 이용한 문장 분석 장치, 방법 및 프로그램] 
 - [paper] 조희진, 정영준, 이창기, 배경만. 거대 언어 모델과 In-context learning을 이용한 자연어 추론 학습 데이터 자동 생성, KCC2023, 373~375
 - [paper] 조희진, 이창기, 배경만. Chain-of-Thought와 Program-aided Language Models을 이용한 전제-가설-라벨 삼중항 자동 생성, HCLT2023, 352~357
+- [paper] 조희진. 거대 언어 모델을 이용한 자연어 추론 데이터셋 자동 생성 방법론
 - (~ ing)
 
 
