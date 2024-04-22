@@ -27,7 +27,7 @@ What can you do to change the world !!
 </p>
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=joheejin&theme=default)](https://joheejin.tistory.com)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=joheejin)]((https://joheejin.tistory.com/))
+
 
 #
 ![zozni's GitHub stats](https://github-readme-stats.vercel.app/api?username=zozni&show_icons=true&theme=github_dark_dimmed)
