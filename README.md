@@ -15,7 +15,7 @@ What can you do to change the world !!
 - [paper] 조희진, 이창기, 배경만. Chain-of-Thought와 Program-aided Language Models을 이용한 전제-가설-라벨 삼중항 자동 생성, HCLT, 2023, 352~357 (ETRI 전문지식 대상 판단결과의 이유/근거를 설명 가능한 전문가 의사결정 지원 인공지능 기술개발 과제)
 - [patent] 제 10-2023-0182684 호 [자연어 추론 학습 데이터 자동 생성 장치 및 방법]
 - [master's thesis] 조희진. 거대 언어 모델을 이용한 자연어 추론 데이터셋 자동 생성 방법론, 2023
-- [paper] 조희진, 양정환, 최효림. ScopeRAG : 개발 지원 도구를 위한 RAG 검색 범위 축소 방법, 2025
+- [paper] 조희진, 양정환, 최효림. ScopeRAG : 개발 지원 도구를 위한 RAG 검색 범위 축소 방법, KCC, 2025
 - (~ ing)
 
 
