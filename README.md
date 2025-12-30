@@ -16,7 +16,7 @@ What can you do to change the world !!
 - [patent] 제 10-2023-0182684 호 [자연어 추론 학습 데이터 자동 생성 장치 및 방법]
 - [master's thesis] 거대 언어 모델을 이용한 자연어 추론 데이터셋 자동 생성 방법론, 2023
 - [paper] ScopeRAG : 개발 지원 도구를 위한 RAG 검색 범위 축소 방법, KCC, 2025
-- [paper] 세법 지식 그래프 탐색을 위한 노드 중심 광범위 탐색 에이전트 개발 (최우수논문상), KAISS, 2025
+- [paper] 세법 지식 그래프 탐색을 위한 노드 중심 광범위 탐색 에이전트 개발, NOVA, (최우수논문상), KAISS, 2025
 - (~ ing)
 
 
