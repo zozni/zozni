@@ -27,7 +27,7 @@ What can you do to change the world !!
   <a href="https://www.instagram.com/zo_zni/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zo_zni/"/></a>&nbsp
 </p>
 
-[![Tistory Card](https://tistory-card.vercel.app/api?name=joheejin&theme=dark)](https://joheejin.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?url=https://joheejin.tistory.com)](https://joheejin.tistory.com)
 
 
 ![](https://komarev.com/ghpvc/?username=zozni&color=blueviolet)
