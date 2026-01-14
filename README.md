@@ -32,7 +32,7 @@ What can you do to change the world !!
 
 ![zozni's GitHub stats](https://github-readme-stats.vercel.app/api?username=zozni&show_icons=true&theme=github_dark_dimmed)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzozni%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![](https://komarev.com/ghpvc/?username=zozni&color=blueviolet)
 
 <!--
 **zozni/zozni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
