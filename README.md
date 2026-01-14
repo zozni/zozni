@@ -24,19 +24,11 @@ What can you do to change the world !!
 ### 😄 Contact Me 
 <p>
     <a href="mailto:thekey1027@naver.com"><img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=thekey1027@naver.com"/></a>
-  <a href="https://joheejin.tistory.com/"><img src="https://img.shields.io/badge/%20Blog-053766?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp
   <a href="https://www.instagram.com/zo_zni/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zo_zni/"/></a>&nbsp
 </p>
 
-### 📝 Blog
 Visit my Tistory: [joheejin.tistory.com](https://joheejin.tistory.com)
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zozni&show_icons=true&theme=github_dark_dimmed)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zozni&layout=compact&theme=github_dark_dimmed)
-
-### 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=zozni&color=blueviolet)
 
 <!--
